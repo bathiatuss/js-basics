@@ -6,11 +6,11 @@ console.log("Bitwise");
 // 2 = 00000010
 
 // Result = 00000011
-console.log(1 | 2); //Bitwise OR ile yetkilendirme yapılabilir.
+console.log(1 | 2); // Bitwise OR can be used for authorization.
 // Result= 00000000
-console.log(1 & 2); //Bitwise AND ile sorgu yapılabilir.
+console.log(1 & 2); // Bitwise AND can be used for querying.
 
-// Read, Write , Execute yetkilendirme programı örneği.
+// Read, Write, Execute authorization program example.
 const readPermission = 4;
 const writePermission = 2;
 const executePermission = 1;
