@@ -1,5 +1,3 @@
-this javascript file created by atakan "bathiatuss" baltaci.
-
 # JavaScript Basic Functions and Data Structures
 
 This repository contains a JavaScript file that covers basic functions, data structures, and some programming concepts in JavaScript.
@@ -35,4 +33,3 @@ Contributions to this repository are welcome and encouraged! If you're experienc
 To contribute, simply fork this repository, make your changes, and submit a pull request. Your contributions will be reviewed and merged to improve the overall quality of the repository.
 
 Feel free to explore the JavaScript and adapt it to suit your learning style and project needs. Happy coding!
-
